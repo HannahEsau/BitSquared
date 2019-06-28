@@ -1,0 +1,31 @@
+body{
+  color: rgb(65,75,86);
+  font-family: sans-serif;
+  margin: 0px;
+  background-image: url(../images/BG.jpg)
+}
+div class{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+li {
+  margin: 0 20px;
+  transition: 0.6s ease;
+}
+ul : hover{
+  font-size: 1.2em;
+  transition: 0.6s ease;
+  justify-content: space-evenly;
+}
+h1 {
+  text-align: center;
+  font-size-adjust: auto;
+}
+p class{
+  font-size: 3em;
+}
+bg class{
+  background-image: image(Background.jpg);
+}
